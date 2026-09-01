@@ -1,0 +1,577 @@
+[
+    {
+        "No":1,
+        "Periode":"Juli 2026",
+        "Inflasi":2.88
+    },
+    {
+        "No":2,
+        "Periode":"Juni 2026",
+        "Inflasi":3.34
+    },
+    {
+        "No":3,
+        "Periode":"Mei 2026",
+        "Inflasi":3.08
+    },
+    {
+        "No":4,
+        "Periode":"April 2026",
+        "Inflasi":2.42
+    },
+    {
+        "No":5,
+        "Periode":"Maret 2026",
+        "Inflasi":3.48
+    },
+    {
+        "No":6,
+        "Periode":"Februari 2026",
+        "Inflasi":4.76
+    },
+    {
+        "No":7,
+        "Periode":"Januari 2026",
+        "Inflasi":3.55
+    },
+    {
+        "No":8,
+        "Periode":"Desember 2025",
+        "Inflasi":2.92
+    },
+    {
+        "No":9,
+        "Periode":"November 2025",
+        "Inflasi":2.72
+    },
+    {
+        "No":10,
+        "Periode":"Oktober 2025",
+        "Inflasi":2.86
+    },
+    {
+        "No":11,
+        "Periode":"September 2025",
+        "Inflasi":2.65
+    },
+    {
+        "No":12,
+        "Periode":"Agustus 2025",
+        "Inflasi":2.31
+    },
+    {
+        "No":13,
+        "Periode":"Juli 2025",
+        "Inflasi":2.37
+    },
+    {
+        "No":14,
+        "Periode":"Juni 2025",
+        "Inflasi":1.87
+    },
+    {
+        "No":15,
+        "Periode":"Mei 2025",
+        "Inflasi":1.6
+    },
+    {
+        "No":16,
+        "Periode":"April 2025",
+        "Inflasi":1.95
+    },
+    {
+        "No":17,
+        "Periode":"Maret 2025",
+        "Inflasi":1.03
+    },
+    {
+        "No":18,
+        "Periode":"Februari 2025",
+        "Inflasi":-0.09
+    },
+    {
+        "No":19,
+        "Periode":"Januari 2025",
+        "Inflasi":0.76
+    },
+    {
+        "No":20,
+        "Periode":"Desember 2024",
+        "Inflasi":1.57
+    },
+    {
+        "No":21,
+        "Periode":"November 2024",
+        "Inflasi":1.55
+    },
+    {
+        "No":22,
+        "Periode":"Oktober 2024",
+        "Inflasi":1.71
+    },
+    {
+        "No":23,
+        "Periode":"September 2024",
+        "Inflasi":1.84
+    },
+    {
+        "No":24,
+        "Periode":"Agustus 2024",
+        "Inflasi":2.12
+    },
+    {
+        "No":25,
+        "Periode":"Juli 2024",
+        "Inflasi":2.13
+    },
+    {
+        "No":26,
+        "Periode":"Juni 2024",
+        "Inflasi":2.51
+    },
+    {
+        "No":27,
+        "Periode":"Mei 2024",
+        "Inflasi":2.84
+    },
+    {
+        "No":28,
+        "Periode":"April 2024",
+        "Inflasi":3.0
+    },
+    {
+        "No":29,
+        "Periode":"Maret 2024",
+        "Inflasi":3.05
+    },
+    {
+        "No":30,
+        "Periode":"Februari 2024",
+        "Inflasi":2.75
+    },
+    {
+        "No":31,
+        "Periode":"Januari 2024",
+        "Inflasi":2.57
+    },
+    {
+        "No":32,
+        "Periode":"Desember 2023",
+        "Inflasi":2.61
+    },
+    {
+        "No":33,
+        "Periode":"November 2023",
+        "Inflasi":2.86
+    },
+    {
+        "No":34,
+        "Periode":"Oktober 2023",
+        "Inflasi":2.56
+    },
+    {
+        "No":35,
+        "Periode":"September 2023",
+        "Inflasi":2.28
+    },
+    {
+        "No":36,
+        "Periode":"Agustus 2023",
+        "Inflasi":3.27
+    },
+    {
+        "No":37,
+        "Periode":"Juli 2023",
+        "Inflasi":3.08
+    },
+    {
+        "No":38,
+        "Periode":"Juni 2023",
+        "Inflasi":3.52
+    },
+    {
+        "No":39,
+        "Periode":"Mei 2023",
+        "Inflasi":4.0
+    },
+    {
+        "No":40,
+        "Periode":"April 2023",
+        "Inflasi":4.33
+    },
+    {
+        "No":41,
+        "Periode":"Maret 2023",
+        "Inflasi":4.97
+    },
+    {
+        "No":42,
+        "Periode":"Februari 2023",
+        "Inflasi":5.47
+    },
+    {
+        "No":43,
+        "Periode":"Januari 2023",
+        "Inflasi":5.28
+    },
+    {
+        "No":44,
+        "Periode":"Desember 2022",
+        "Inflasi":5.51
+    },
+    {
+        "No":45,
+        "Periode":"November 2022",
+        "Inflasi":5.42
+    },
+    {
+        "No":46,
+        "Periode":"Oktober 2022",
+        "Inflasi":5.71
+    },
+    {
+        "No":47,
+        "Periode":"September 2022",
+        "Inflasi":5.95
+    },
+    {
+        "No":48,
+        "Periode":"Agustus 2022",
+        "Inflasi":4.69
+    },
+    {
+        "No":49,
+        "Periode":"Juli 2022",
+        "Inflasi":4.94
+    },
+    {
+        "No":50,
+        "Periode":"Juni 2022",
+        "Inflasi":4.35
+    },
+    {
+        "No":51,
+        "Periode":"Mei 2022",
+        "Inflasi":3.55
+    },
+    {
+        "No":52,
+        "Periode":"April 2022",
+        "Inflasi":3.47
+    },
+    {
+        "No":53,
+        "Periode":"Maret 2022",
+        "Inflasi":2.64
+    },
+    {
+        "No":54,
+        "Periode":"Februari 2022",
+        "Inflasi":2.06
+    },
+    {
+        "No":55,
+        "Periode":"Januari 2022",
+        "Inflasi":2.18
+    },
+    {
+        "No":56,
+        "Periode":"Desember 2021",
+        "Inflasi":1.87
+    },
+    {
+        "No":57,
+        "Periode":"November 2021",
+        "Inflasi":1.75
+    },
+    {
+        "No":58,
+        "Periode":"Oktober 2021",
+        "Inflasi":1.66
+    },
+    {
+        "No":59,
+        "Periode":"September 2021",
+        "Inflasi":1.6
+    },
+    {
+        "No":60,
+        "Periode":"Agustus 2021",
+        "Inflasi":1.59
+    },
+    {
+        "No":61,
+        "Periode":"Juli 2021",
+        "Inflasi":1.52
+    },
+    {
+        "No":62,
+        "Periode":"Juni 2021",
+        "Inflasi":1.33
+    },
+    {
+        "No":63,
+        "Periode":"Mei 2021",
+        "Inflasi":1.68
+    },
+    {
+        "No":64,
+        "Periode":"April 2021",
+        "Inflasi":1.42
+    },
+    {
+        "No":65,
+        "Periode":"Maret 2021",
+        "Inflasi":1.37
+    },
+    {
+        "No":66,
+        "Periode":"Februari 2021",
+        "Inflasi":1.38
+    },
+    {
+        "No":67,
+        "Periode":"Januari 2021",
+        "Inflasi":1.55
+    },
+    {
+        "No":68,
+        "Periode":"Desember 2020",
+        "Inflasi":1.68
+    },
+    {
+        "No":69,
+        "Periode":"November 2020",
+        "Inflasi":1.59
+    },
+    {
+        "No":70,
+        "Periode":"Oktober 2020",
+        "Inflasi":1.44
+    },
+    {
+        "No":71,
+        "Periode":"September 2020",
+        "Inflasi":1.42
+    },
+    {
+        "No":72,
+        "Periode":"Agustus 2020",
+        "Inflasi":1.32
+    },
+    {
+        "No":73,
+        "Periode":"Juli 2020",
+        "Inflasi":1.54
+    },
+    {
+        "No":74,
+        "Periode":"Juni 2020",
+        "Inflasi":1.96
+    },
+    {
+        "No":75,
+        "Periode":"Mei 2020",
+        "Inflasi":2.19
+    },
+    {
+        "No":76,
+        "Periode":"April 2020",
+        "Inflasi":2.67
+    },
+    {
+        "No":77,
+        "Periode":"Maret 2020",
+        "Inflasi":2.96
+    },
+    {
+        "No":78,
+        "Periode":"Februari 2020",
+        "Inflasi":2.98
+    },
+    {
+        "No":79,
+        "Periode":"Januari 2020",
+        "Inflasi":2.68
+    },
+    {
+        "No":80,
+        "Periode":"Desember 2019",
+        "Inflasi":2.72
+    },
+    {
+        "No":81,
+        "Periode":"November 2019",
+        "Inflasi":3.0
+    },
+    {
+        "No":82,
+        "Periode":"Oktober 2019",
+        "Inflasi":3.13
+    },
+    {
+        "No":83,
+        "Periode":"September 2019",
+        "Inflasi":3.39
+    },
+    {
+        "No":84,
+        "Periode":"Agustus 2019",
+        "Inflasi":3.49
+    },
+    {
+        "No":85,
+        "Periode":"Juli 2019",
+        "Inflasi":3.32
+    },
+    {
+        "No":86,
+        "Periode":"Juni 2019",
+        "Inflasi":3.28
+    },
+    {
+        "No":87,
+        "Periode":"Mei 2019",
+        "Inflasi":3.32
+    },
+    {
+        "No":88,
+        "Periode":"April 2019",
+        "Inflasi":2.83
+    },
+    {
+        "No":89,
+        "Periode":"Maret 2019",
+        "Inflasi":2.48
+    },
+    {
+        "No":90,
+        "Periode":"Februari 2019",
+        "Inflasi":2.57
+    },
+    {
+        "No":91,
+        "Periode":"Januari 2019",
+        "Inflasi":2.82
+    },
+    {
+        "No":92,
+        "Periode":"Desember 2018",
+        "Inflasi":3.13
+    },
+    {
+        "No":93,
+        "Periode":"November 2018",
+        "Inflasi":3.23
+    },
+    {
+        "No":94,
+        "Periode":"Oktober 2018",
+        "Inflasi":3.16
+    },
+    {
+        "No":95,
+        "Periode":"September 2018",
+        "Inflasi":2.88
+    },
+    {
+        "No":96,
+        "Periode":"Agustus 2018",
+        "Inflasi":3.2
+    },
+    {
+        "No":97,
+        "Periode":"Juli 2018",
+        "Inflasi":3.18
+    },
+    {
+        "No":98,
+        "Periode":"Juni 2018",
+        "Inflasi":3.12
+    },
+    {
+        "No":99,
+        "Periode":"Mei 2018",
+        "Inflasi":3.23
+    },
+    {
+        "No":100,
+        "Periode":"April 2018",
+        "Inflasi":3.41
+    },
+    {
+        "No":101,
+        "Periode":"Maret 2018",
+        "Inflasi":3.4
+    },
+    {
+        "No":102,
+        "Periode":"Februari 2018",
+        "Inflasi":3.18
+    },
+    {
+        "No":103,
+        "Periode":"Januari 2018",
+        "Inflasi":3.25
+    },
+    {
+        "No":104,
+        "Periode":"Desember 2017",
+        "Inflasi":3.61
+    },
+    {
+        "No":105,
+        "Periode":"November 2017",
+        "Inflasi":3.3
+    },
+    {
+        "No":106,
+        "Periode":"Oktober 2017",
+        "Inflasi":3.58
+    },
+    {
+        "No":107,
+        "Periode":"September 2017",
+        "Inflasi":3.72
+    },
+    {
+        "No":108,
+        "Periode":"Agustus 2017",
+        "Inflasi":3.82
+    },
+    {
+        "No":109,
+        "Periode":"Juli 2017",
+        "Inflasi":3.88
+    },
+    {
+        "No":110,
+        "Periode":"Juni 2017",
+        "Inflasi":4.37
+    },
+    {
+        "No":111,
+        "Periode":"Mei 2017",
+        "Inflasi":4.33
+    },
+    {
+        "No":112,
+        "Periode":"April 2017",
+        "Inflasi":4.17
+    },
+    {
+        "No":113,
+        "Periode":"Maret 2017",
+        "Inflasi":3.61
+    },
+    {
+        "No":114,
+        "Periode":"Februari 2017",
+        "Inflasi":3.83
+    },
+    {
+        "No":115,
+        "Periode":"Januari 2017",
+        "Inflasi":3.49
+    }
+]
