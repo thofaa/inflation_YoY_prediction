@@ -1,592 +1,962 @@
 [
     {
-        "NO":1,
-        "Tanggal":"19 Agustus 2026",
-        "BI Rate":5.75
+        "year":2017,
+        "month":1,
+        "M1":1191499.6899999999,
+        "M2":4936881.9900000002,
+        "M1_normalized":0.0,
+        "M2_normalized":0.0
+    },
+    {
+        "year":2017,
+        "month":2,
+        "M1":1196036.6100000001,
+        "M2":4942919.7599999998,
+        "M1_normalized":0.002,
+        "M2_normalized":0.0011
+    },
+    {
+        "year":2017,
+        "month":3,
+        "M1":1215856.6799999999,
+        "M2":5017643.5499999998,
+        "M1_normalized":0.0108,
+        "M2_normalized":0.0147
+    },
+    {
+        "year":2017,
+        "month":4,
+        "M1":1245927.3899999999,
+        "M2":5033780.29,
+        "M1_normalized":0.0242,
+        "M2_normalized":0.0176
+    },
+    {
+        "year":2017,
+        "month":5,
+        "M1":1275892.5,
+        "M2":5125383.79,
+        "M1_normalized":0.0376,
+        "M2_normalized":0.0343
+    },
+    {
+        "year":2017,
+        "month":6,
+        "M1":1341851.26,
+        "M2":5225165.7599999998,
+        "M1_normalized":0.0669,
+        "M2_normalized":0.0525
+    },
+    {
+        "year":2017,
+        "month":7,
+        "M1":1293234.8400000001,
+        "M2":5178078.75,
+        "M1_normalized":0.0453,
+        "M2_normalized":0.0439
+    },
+    {
+        "year":2017,
+        "month":8,
+        "M1":1274803.26,
+        "M2":5219647.6299999999,
+        "M1_normalized":0.0371,
+        "M2_normalized":0.0515
+    },
+    {
+        "year":2017,
+        "month":9,
+        "M1":1304373.8300000001,
+        "M2":5254138.5099999998,
+        "M1_normalized":0.0502,
+        "M2_normalized":0.0577
+    },
+    {
+        "year":2017,
+        "month":10,
+        "M1":1325762.3300000001,
+        "M2":5284320.1600000001,
+        "M1_normalized":0.0598,
+        "M2_normalized":0.0632
+    },
+    {
+        "year":2017,
+        "month":11,
+        "M1":1338143.3300000001,
+        "M2":5321431.7699999996,
+        "M1_normalized":0.0653,
+        "M2_normalized":0.07
+    },
+    {
+        "year":2017,
+        "month":12,
+        "M1":1390806.95,
+        "M2":5419165.0499999998,
+        "M1_normalized":0.0887,
+        "M2_normalized":0.0878
+    },
+    {
+        "year":2018,
+        "month":1,
+        "M1":1326741.99,
+        "M2":5351684.6699999999,
+        "M1_normalized":0.0602,
+        "M2_normalized":0.0755
     },
     {
-        "NO":2,
-        "Tanggal":"22 Juli 2026",
-        "BI Rate":5.75
+        "year":2018,
+        "month":2,
+        "M1":1351258.0,
+        "M2":5351650.3300000001,
+        "M1_normalized":0.0711,
+        "M2_normalized":0.0755
     },
     {
-        "NO":3,
-        "Tanggal":"18 Juni 2026",
-        "BI Rate":5.75
+        "year":2018,
+        "month":3,
+        "M1":1361135.48,
+        "M2":5395826.04,
+        "M1_normalized":0.0755,
+        "M2_normalized":0.0835
     },
     {
-        "NO":4,
-        "Tanggal":"9 Juni 2026",
-        "BI Rate":5.5
+        "year":2018,
+        "month":4,
+        "M1":1372576.1499999999,
+        "M2":5409088.8099999996,
+        "M1_normalized":0.0806,
+        "M2_normalized":0.0859
     },
     {
-        "NO":5,
-        "Tanggal":"20 Mei 2026",
-        "BI Rate":5.25
+        "year":2018,
+        "month":5,
+        "M1":1404627.0900000001,
+        "M2":5435082.9299999997,
+        "M1_normalized":0.0949,
+        "M2_normalized":0.0906
     },
     {
-        "NO":6,
-        "Tanggal":"22 April 2026",
-        "BI Rate":4.75
+        "year":2018,
+        "month":6,
+        "M1":1452354.45,
+        "M2":5534149.8300000001,
+        "M1_normalized":0.1161,
+        "M2_normalized":0.1087
     },
     {
-        "NO":7,
-        "Tanggal":"17 Maret 2026",
-        "BI Rate":4.75
+        "year":2018,
+        "month":7,
+        "M1":1383502.6200000001,
+        "M2":5507791.75,
+        "M1_normalized":0.0855,
+        "M2_normalized":0.1039
     },
     {
-        "NO":8,
-        "Tanggal":"19 Februari 2026",
-        "BI Rate":4.75
+        "year":2018,
+        "month":8,
+        "M1":1384264.8500000001,
+        "M2":5529451.8099999996,
+        "M1_normalized":0.0858,
+        "M2_normalized":0.1078
     },
     {
-        "NO":9,
-        "Tanggal":"21 Januari 2026",
-        "BI Rate":4.75
+        "year":2018,
+        "month":9,
+        "M1":1411672.6399999999,
+        "M2":5606779.8899999997,
+        "M1_normalized":0.098,
+        "M2_normalized":0.1219
     },
     {
-        "NO":10,
-        "Tanggal":"17 Desember 2025",
-        "BI Rate":4.75
+        "year":2018,
+        "month":10,
+        "M1":1410577.6000000001,
+        "M2":5667512.0999999996,
+        "M1_normalized":0.0975,
+        "M2_normalized":0.1329
     },
     {
-        "NO":11,
-        "Tanggal":"19 November 2025",
-        "BI Rate":4.75
+        "year":2018,
+        "month":11,
+        "M1":1405263.8400000001,
+        "M2":5670975.2400000002,
+        "M1_normalized":0.0951,
+        "M2_normalized":0.1336
     },
     {
-        "NO":12,
-        "Tanggal":"22 Oktober 2025",
-        "BI Rate":4.75
+        "year":2018,
+        "month":12,
+        "M1":1457149.6799999999,
+        "M2":5760046.2000000002,
+        "M1_normalized":0.1182,
+        "M2_normalized":0.1498
     },
     {
-        "NO":13,
-        "Tanggal":"17 September 2025",
-        "BI Rate":4.75
+        "year":2019,
+        "month":1,
+        "M1":1376136.0,
+        "M2":5644985.0,
+        "M1_normalized":0.0822,
+        "M2_normalized":0.1288
     },
     {
-        "NO":14,
-        "Tanggal":"20 Agustus 2025",
-        "BI Rate":5.0
+        "year":2019,
+        "month":2,
+        "M1":1386329.0,
+        "M2":5670778.0,
+        "M1_normalized":0.0867,
+        "M2_normalized":0.1335
     },
     {
-        "NO":15,
-        "Tanggal":"16 Juli 2025",
-        "BI Rate":5.25
+        "year":2019,
+        "month":3,
+        "M1":1428607.0,
+        "M2":5747247.0,
+        "M1_normalized":0.1055,
+        "M2_normalized":0.1474
     },
     {
-        "NO":16,
-        "Tanggal":"18 Juni 2025",
-        "BI Rate":5.5
+        "year":2019,
+        "month":4,
+        "M1":1454279.0,
+        "M2":5746732.0,
+        "M1_normalized":0.117,
+        "M2_normalized":0.1474
     },
     {
-        "NO":17,
-        "Tanggal":"21 Mei 2025",
-        "BI Rate":5.5
+        "year":2019,
+        "month":5,
+        "M1":1508040.0,
+        "M2":5860509.0,
+        "M1_normalized":0.1409,
+        "M2_normalized":0.1681
     },
     {
-        "NO":18,
-        "Tanggal":"23 April 2025",
-        "BI Rate":5.75
+        "year":2019,
+        "month":6,
+        "M1":1513520.0,
+        "M2":5908509.0,
+        "M1_normalized":0.1433,
+        "M2_normalized":0.1768
     },
     {
-        "NO":19,
-        "Tanggal":"19 Maret 2025",
-        "BI Rate":5.75
+        "year":2019,
+        "month":7,
+        "M1":1487802.0,
+        "M2":5941133.0,
+        "M1_normalized":0.1319,
+        "M2_normalized":0.1827
     },
     {
-        "NO":20,
-        "Tanggal":"19 Februari 2025",
-        "BI Rate":5.75
+        "year":2019,
+        "month":8,
+        "M1":1475544.0,
+        "M2":5934562.0,
+        "M1_normalized":0.1264,
+        "M2_normalized":0.1815
     },
     {
-        "NO":21,
-        "Tanggal":"15 Januari 2025",
-        "BI Rate":5.75
+        "year":2019,
+        "month":9,
+        "M1":1563602.0,
+        "M2":6134178.0,
+        "M1_normalized":0.1656,
+        "M2_normalized":0.2179
     },
     {
-        "NO":22,
-        "Tanggal":"18 Desember 2024",
-        "BI Rate":6.0
+        "year":2019,
+        "month":10,
+        "M1":1504156.0,
+        "M2":6026908.0,
+        "M1_normalized":0.1392,
+        "M2_normalized":0.1983
     },
     {
-        "NO":23,
-        "Tanggal":"20 November 2024",
-        "BI Rate":6.0
+        "year":2019,
+        "month":11,
+        "M1":1553134.0,
+        "M2":6074377.0,
+        "M1_normalized":0.161,
+        "M2_normalized":0.207
     },
     {
-        "NO":24,
-        "Tanggal":"16 Oktober 2024",
-        "BI Rate":6.0
+        "year":2019,
+        "month":12,
+        "M1":1565358.0,
+        "M2":6136552.0,
+        "M1_normalized":0.1664,
+        "M2_normalized":0.2183
     },
     {
-        "NO":25,
-        "Tanggal":"18 September 2024",
-        "BI Rate":6.0
+        "year":2020,
+        "month":1,
+        "M1":1484403.0,
+        "M2":6046651.0,
+        "M1_normalized":0.1304,
+        "M2_normalized":0.2019
     },
     {
-        "NO":26,
-        "Tanggal":"21 Agustus 2024",
-        "BI Rate":6.25
+        "year":2020,
+        "month":2,
+        "M1":1505491.0,
+        "M2":6116495.0,
+        "M1_normalized":0.1398,
+        "M2_normalized":0.2146
     },
     {
-        "NO":27,
-        "Tanggal":"17 Juli 2024",
-        "BI Rate":6.25
+        "year":2020,
+        "month":3,
+        "M1":1648681.3300000001,
+        "M2":6440457.3899999997,
+        "M1_normalized":0.2035,
+        "M2_normalized":0.2736
     },
     {
-        "NO":28,
-        "Tanggal":"20 Juni 2024",
-        "BI Rate":6.25
+        "year":2020,
+        "month":4,
+        "M1":1576401.0,
+        "M2":6238267.0,
+        "M1_normalized":0.1713,
+        "M2_normalized":0.2368
     },
     {
-        "NO":29,
-        "Tanggal":"22 Mei 2024",
-        "BI Rate":6.25
+        "year":2020,
+        "month":5,
+        "M1":1653610.6399999999,
+        "M2":6468193.5,
+        "M1_normalized":0.2057,
+        "M2_normalized":0.2786
     },
     {
-        "NO":30,
-        "Tanggal":"24 April 2024",
-        "BI Rate":6.25
+        "year":2020,
+        "month":6,
+        "M1":1637750.6599999999,
+        "M2":6393743.7999999998,
+        "M1_normalized":0.1986,
+        "M2_normalized":0.2651
     },
     {
-        "NO":31,
-        "Tanggal":"20 Maret 2024",
-        "BI Rate":6.0
+        "year":2020,
+        "month":7,
+        "M1":1683193.6299999999,
+        "M2":6567725.0199999996,
+        "M1_normalized":0.2189,
+        "M2_normalized":0.2967
     },
     {
-        "NO":32,
-        "Tanggal":"21 Februari 2024",
-        "BI Rate":6.0
+        "year":2020,
+        "month":8,
+        "M1":1759639.02,
+        "M2":6726135.25,
+        "M1_normalized":0.2529,
+        "M2_normalized":0.3256
     },
     {
-        "NO":33,
-        "Tanggal":"17 Januari 2024",
-        "BI Rate":6.0
+        "year":2020,
+        "month":9,
+        "M1":1780721.4099999999,
+        "M2":6748574.0300000003,
+        "M1_normalized":0.2623,
+        "M2_normalized":0.3296
     },
     {
-        "NO":34,
-        "Tanggal":"21 Desember 2023",
-        "BI Rate":6.0
+        "year":2020,
+        "month":10,
+        "M1":1782244.23,
+        "M2":6780844.54,
+        "M1_normalized":0.2629,
+        "M2_normalized":0.3355
     },
     {
-        "NO":35,
-        "Tanggal":"23 November 2023",
-        "BI Rate":6.0
+        "year":2020,
+        "month":11,
+        "M1":1799087.27,
+        "M2":6817456.6799999997,
+        "M1_normalized":0.2704,
+        "M2_normalized":0.3422
     },
     {
-        "NO":36,
-        "Tanggal":"19 Oktober 2023",
-        "BI Rate":6.0
+        "year":2020,
+        "month":12,
+        "M1":1855624.8,
+        "M2":6900049.4900000002,
+        "M1_normalized":0.2956,
+        "M2_normalized":0.3572
     },
     {
-        "NO":37,
-        "Tanggal":"21 September 2023",
-        "BI Rate":5.75
+        "year":2021,
+        "month":1,
+        "M1":1762295.71,
+        "M2":6767407.6500000004,
+        "M1_normalized":0.2541,
+        "M2_normalized":0.3331
     },
     {
-        "NO":38,
-        "Tanggal":"24 Agustus 2023",
-        "BI Rate":5.75
+        "year":2021,
+        "month":2,
+        "M1":1784763.23,
+        "M2":6817787.9100000001,
+        "M1_normalized":0.2641,
+        "M2_normalized":0.3422
     },
     {
-        "NO":39,
-        "Tanggal":"25 Juli 2023",
-        "BI Rate":5.75
+        "year":2021,
+        "month":3,
+        "M1":1827391.1599999999,
+        "M2":6895564.1200000001,
+        "M1_normalized":0.283,
+        "M2_normalized":0.3564
     },
     {
-        "NO":40,
-        "Tanggal":"22 Juni 2023",
-        "BI Rate":5.75
+        "year":2021,
+        "month":4,
+        "M1":1850950.9099999999,
+        "M2":6964386.4900000002,
+        "M1_normalized":0.2935,
+        "M2_normalized":0.3689
     },
     {
-        "NO":41,
-        "Tanggal":"25 Mei 2023",
-        "BI Rate":5.75
+        "year":2021,
+        "month":5,
+        "M1":1861766.8999999999,
+        "M2":7004093.0800000001,
+        "M1_normalized":0.2983,
+        "M2_normalized":0.3761
     },
     {
-        "NO":42,
-        "Tanggal":"18 April 2023",
-        "BI Rate":5.75
+        "year":2021,
+        "month":6,
+        "M1":1915429.3300000001,
+        "M2":7130061.4199999999,
+        "M1_normalized":0.3222,
+        "M2_normalized":0.3991
     },
     {
-        "NO":43,
-        "Tanggal":"16 Maret 2023",
-        "BI Rate":5.75
+        "year":2021,
+        "month":7,
+        "M1":1933291.47,
+        "M2":7160560.3300000001,
+        "M1_normalized":0.3302,
+        "M2_normalized":0.4046
     },
     {
-        "NO":44,
-        "Tanggal":"16 Februari 2023",
-        "BI Rate":5.75
+        "year":2021,
+        "month":8,
+        "M1":1938389.6299999999,
+        "M2":7211500.7199999997,
+        "M1_normalized":0.3325,
+        "M2_normalized":0.4139
     },
     {
-        "NO":45,
-        "Tanggal":"19 Januari 2023",
-        "BI Rate":5.75
+        "year":2021,
+        "month":9,
+        "M1":1968434.3700000001,
+        "M2":7300920.6399999997,
+        "M1_normalized":0.3458,
+        "M2_normalized":0.4301
     },
     {
-        "NO":46,
-        "Tanggal":"22 Desember 2022",
-        "BI Rate":5.5
+        "year":2021,
+        "month":10,
+        "M1":2071417.8300000001,
+        "M2":7491704.3799999999,
+        "M1_normalized":0.3917,
+        "M2_normalized":0.4649
     },
     {
-        "NO":47,
-        "Tanggal":"17 November 2022",
-        "BI Rate":5.25
+        "year":2021,
+        "month":11,
+        "M1":2114703.0899999999,
+        "M2":7573319.9000000004,
+        "M1_normalized":0.4109,
+        "M2_normalized":0.4797
     },
     {
-        "NO":48,
-        "Tanggal":"20 Oktober 2022",
-        "BI Rate":4.75
+        "year":2021,
+        "month":12,
+        "M1":2282200.2599999998,
+        "M2":7870452.8499999996,
+        "M1_normalized":0.4855,
+        "M2_normalized":0.5338
     },
     {
-        "NO":49,
-        "Tanggal":"22 September 2022",
-        "BI Rate":4.25
+        "year":2022,
+        "month":1,
+        "M1":2149551.5,
+        "M2":7646789.1900000004,
+        "M1_normalized":0.4264,
+        "M2_normalized":0.4931
     },
     {
-        "NO":50,
-        "Tanggal":"23 Agustus 2022",
-        "BI Rate":3.75
+        "year":2022,
+        "month":2,
+        "M1":2195617.7799999998,
+        "M2":7690134.5,
+        "M1_normalized":0.4469,
+        "M2_normalized":0.501
     },
     {
-        "NO":51,
-        "Tanggal":"21 Juli 2022",
-        "BI Rate":3.5
+        "year":2022,
+        "month":3,
+        "M1":2254591.0,
+        "M2":7810949.3200000003,
+        "M1_normalized":0.4732,
+        "M2_normalized":0.5229
     },
     {
-        "NO":52,
-        "Tanggal":"23 Juni 2022",
-        "BI Rate":3.5
+        "year":2022,
+        "month":4,
+        "M1":2327208.4900000002,
+        "M2":7911484.4900000002,
+        "M1_normalized":0.5055,
+        "M2_normalized":0.5412
     },
     {
-        "NO":53,
-        "Tanggal":"24 Mei 2022",
-        "BI Rate":3.5
+        "year":2022,
+        "month":5,
+        "M1":2302911.1699999999,
+        "M2":7854186.71,
+        "M1_normalized":0.4947,
+        "M2_normalized":0.5308
     },
     {
-        "NO":54,
-        "Tanggal":"19 April 2022",
-        "BI Rate":3.5
+        "year":2022,
+        "month":6,
+        "M1":2339449.79,
+        "M2":7890747.0099999998,
+        "M1_normalized":0.511,
+        "M2_normalized":0.5375
     },
     {
-        "NO":55,
-        "Tanggal":"17 Maret 2022",
-        "BI Rate":3.5
+        "year":2022,
+        "month":7,
+        "M1":2296045.4199999999,
+        "M2":7845551.9100000001,
+        "M1_normalized":0.4917,
+        "M2_normalized":0.5292
     },
     {
-        "NO":56,
-        "Tanggal":"10 Februari 2022",
-        "BI Rate":3.5
+        "year":2022,
+        "month":8,
+        "M1":2279163.4900000002,
+        "M2":7897628.21,
+        "M1_normalized":0.4841,
+        "M2_normalized":0.5387
     },
     {
-        "NO":57,
-        "Tanggal":"20 Januari 2022",
-        "BI Rate":3.5
+        "year":2022,
+        "month":9,
+        "M1":2320882.5699999998,
+        "M2":7962693.3600000003,
+        "M1_normalized":0.5027,
+        "M2_normalized":0.5506
     },
     {
-        "NO":58,
-        "Tanggal":"16 Desember 2021",
-        "BI Rate":3.5
+        "year":2022,
+        "month":10,
+        "M1":2539067.3100000001,
+        "M2":8223055.0199999996,
+        "M1_normalized":0.5998,
+        "M2_normalized":0.5979
     },
     {
-        "NO":59,
-        "Tanggal":"18 November 2021",
-        "BI Rate":3.5
+        "year":2022,
+        "month":11,
+        "M1":2467951.3399999999,
+        "M2":8297349.5099999998,
+        "M1_normalized":0.5682,
+        "M2_normalized":0.6115
     },
     {
-        "NO":60,
-        "Tanggal":"19 Oktober 2021",
-        "BI Rate":3.5
+        "year":2022,
+        "month":12,
+        "M1":2608796.6600000001,
+        "M2":8528022.3100000005,
+        "M1_normalized":0.6309,
+        "M2_normalized":0.6534
     },
     {
-        "NO":61,
-        "Tanggal":"21 September 2021",
-        "BI Rate":3.5
+        "year":2023,
+        "month":1,
+        "M1":2422174.0,
+        "M2":8271838.0999999996,
+        "M1_normalized":0.5478,
+        "M2_normalized":0.6068
     },
     {
-        "NO":62,
-        "Tanggal":"19 Agustus 2021",
-        "BI Rate":3.5
+        "year":2023,
+        "month":2,
+        "M1":2403593.54,
+        "M2":8300648.3700000001,
+        "M1_normalized":0.5395,
+        "M2_normalized":0.6121
     },
     {
-        "NO":63,
-        "Tanggal":"22 Juli 2021",
-        "BI Rate":3.5
+        "year":2023,
+        "month":3,
+        "M1":2408418.9100000001,
+        "M2":8293283.2300000004,
+        "M1_normalized":0.5417,
+        "M2_normalized":0.6107
     },
     {
-        "NO":64,
-        "Tanggal":"17 Juni 2021",
-        "BI Rate":3.5
+        "year":2023,
+        "month":4,
+        "M1":2472869.46,
+        "M2":8352349.6799999997,
+        "M1_normalized":0.5704,
+        "M2_normalized":0.6215
     },
     {
-        "NO":65,
-        "Tanggal":"25 Mei 2021",
-        "BI Rate":3.5
+        "year":2023,
+        "month":5,
+        "M1":2423317.96,
+        "M2":8336170.79,
+        "M1_normalized":0.5483,
+        "M2_normalized":0.6185
     },
     {
-        "NO":66,
-        "Tanggal":"20 April 2021",
-        "BI Rate":3.5
+        "year":2023,
+        "month":6,
+        "M1":2466093.0699999998,
+        "M2":8372990.3200000003,
+        "M1_normalized":0.5673,
+        "M2_normalized":0.6252
     },
     {
-        "NO":67,
-        "Tanggal":"18 Maret 2021",
-        "BI Rate":3.5
+        "year":2023,
+        "month":7,
+        "M1":2438058.7599999998,
+        "M2":8349492.3200000003,
+        "M1_normalized":0.5549,
+        "M2_normalized":0.6209
     },
     {
-        "NO":68,
-        "Tanggal":"18 Februari 2021",
-        "BI Rate":3.5
+        "year":2023,
+        "month":8,
+        "M1":2410850.8700000001,
+        "M2":8364739.0,
+        "M1_normalized":0.5428,
+        "M2_normalized":0.6237
     },
     {
-        "NO":69,
-        "Tanggal":"21 Januari 2021",
-        "BI Rate":3.75
+        "year":2023,
+        "month":9,
+        "M1":2482229.0299999998,
+        "M2":8441236.4399999995,
+        "M1_normalized":0.5745,
+        "M2_normalized":0.6376
     },
     {
-        "NO":70,
-        "Tanggal":"17 Desember 2020",
-        "BI Rate":3.75
+        "year":2023,
+        "month":10,
+        "M1":2497710.2999999998,
+        "M2":8506544.0600000005,
+        "M1_normalized":0.5814,
+        "M2_normalized":0.6495
     },
     {
-        "NO":71,
-        "Tanggal":"19 November 2020",
-        "BI Rate":3.75
+        "year":2023,
+        "month":11,
+        "M1":2510759.3199999998,
+        "M2":8574917.0999999996,
+        "M1_normalized":0.5872,
+        "M2_normalized":0.662
     },
     {
-        "NO":72,
-        "Tanggal":"13 Oktober 2020",
-        "BI Rate":4.0
+        "year":2023,
+        "month":12,
+        "M1":2675333.2799999998,
+        "M2":8826531.0,
+        "M1_normalized":0.6605,
+        "M2_normalized":0.7077
     },
     {
-        "NO":73,
-        "Tanggal":"17 September 2020",
-        "BI Rate":4.0
+        "year":2024,
+        "month":1,
+        "M1":2564734.0,
+        "M2":8721949.6899999995,
+        "M1_normalized":0.6112,
+        "M2_normalized":0.6887
     },
     {
-        "NO":74,
-        "Tanggal":"19 Agustus 2020",
-        "BI Rate":4.0
+        "year":2024,
+        "month":2,
+        "M1":2556484.7999999998,
+        "M2":8739574.2899999991,
+        "M1_normalized":0.6076,
+        "M2_normalized":0.6919
     },
     {
-        "NO":75,
-        "Tanggal":"16 Juli 2020",
-        "BI Rate":4.0
+        "year":2024,
+        "month":3,
+        "M1":2639424.8700000001,
+        "M2":8891424.6199999992,
+        "M1_normalized":0.6445,
+        "M2_normalized":0.7195
     },
     {
-        "NO":76,
-        "Tanggal":"18 Juni 2020",
-        "BI Rate":4.25
+        "year":2024,
+        "month":4,
+        "M1":2623331.1600000001,
+        "M2":8926465.5600000005,
+        "M1_normalized":0.6373,
+        "M2_normalized":0.7259
     },
     {
-        "NO":77,
-        "Tanggal":"19 Mei 2020",
-        "BI Rate":4.5
+        "year":2024,
+        "month":5,
+        "M1":2625271.4500000002,
+        "M2":8968821.1099999994,
+        "M1_normalized":0.6382,
+        "M2_normalized":0.7336
     },
     {
-        "NO":78,
-        "Tanggal":"14 April 2020",
-        "BI Rate":4.5
+        "year":2024,
+        "month":6,
+        "M1":2692395.3100000001,
+        "M2":9015355.0500000007,
+        "M1_normalized":0.6681,
+        "M2_normalized":0.7421
     },
     {
-        "NO":79,
-        "Tanggal":"19 Maret 2020",
-        "BI Rate":4.5
+        "year":2024,
+        "month":7,
+        "M1":2625264.3100000001,
+        "M2":8983383.3499999996,
+        "M1_normalized":0.6382,
+        "M2_normalized":0.7363
     },
     {
-        "NO":80,
-        "Tanggal":"20 Februari 2020",
-        "BI Rate":4.75
+        "year":2024,
+        "month":8,
+        "M1":2626709.7200000002,
+        "M2":8975511.8599999994,
+        "M1_normalized":0.6388,
+        "M2_normalized":0.7348
     },
     {
-        "NO":81,
-        "Tanggal":"23 Januari 2020",
-        "BI Rate":5.0
+        "year":2024,
+        "month":9,
+        "M1":2672407.7200000002,
+        "M2":9047998.6999999993,
+        "M1_normalized":0.6592,
+        "M2_normalized":0.748
     },
     {
-        "NO":82,
-        "Tanggal":"19 Desember 2019",
-        "BI Rate":5.0
+        "year":2024,
+        "month":10,
+        "M1":2697741.0899999999,
+        "M2":9082755.1099999994,
+        "M1_normalized":0.6705,
+        "M2_normalized":0.7544
     },
     {
-        "NO":83,
-        "Tanggal":"21 November 2019",
-        "BI Rate":5.0
+        "year":2024,
+        "month":11,
+        "M1":2822294.0600000001,
+        "M2":9175750.6600000001,
+        "M1_normalized":0.7259,
+        "M2_normalized":0.7713
     },
     {
-        "NO":84,
-        "Tanggal":"24 Oktober 2019",
-        "BI Rate":5.0
+        "year":2024,
+        "month":12,
+        "M1":2839485.0600000001,
+        "M2":9210815.7200000007,
+        "M1_normalized":0.7335,
+        "M2_normalized":0.7777
     },
     {
-        "NO":85,
-        "Tanggal":"19 September 2019",
-        "BI Rate":5.25
+        "year":2025,
+        "month":1,
+        "M1":2790374.6299999999,
+        "M2":9198352.3399999999,
+        "M1_normalized":0.7117,
+        "M2_normalized":0.7754
     },
     {
-        "NO":86,
-        "Tanggal":"22 Agustus 2019",
-        "BI Rate":5.5
+        "year":2025,
+        "month":2,
+        "M1":2774899.6000000001,
+        "M2":9281079.2899999991,
+        "M1_normalized":0.7048,
+        "M2_normalized":0.7904
     },
     {
-        "NO":87,
-        "Tanggal":"18 Juli 2019",
-        "BI Rate":5.75
+        "year":2025,
+        "month":3,
+        "M1":2842704.5600000001,
+        "M2":9436700.4499999993,
+        "M1_normalized":0.735,
+        "M2_normalized":0.8188
     },
     {
-        "NO":88,
-        "Tanggal":"20 Juni 2019",
-        "BI Rate":6.0
+        "year":2025,
+        "month":4,
+        "M1":2802488.4199999999,
+        "M2":9387895.1899999995,
+        "M1_normalized":0.7171,
+        "M2_normalized":0.8099
     },
     {
-        "NO":89,
-        "Tanggal":"16 Mei 2019",
-        "BI Rate":6.0
+        "year":2025,
+        "month":5,
+        "M1":2836018.3700000001,
+        "M2":9404299.8900000006,
+        "M1_normalized":0.732,
+        "M2_normalized":0.8129
     },
     {
-        "NO":90,
-        "Tanggal":"25 April 2019",
-        "BI Rate":6.0
+        "year":2025,
+        "month":6,
+        "M1":2955112.6800000002,
+        "M2":9595253.5999999996,
+        "M1_normalized":0.785,
+        "M2_normalized":0.8476
     },
     {
-        "NO":91,
-        "Tanggal":"21 Maret 2019",
-        "BI Rate":6.0
+        "year":2025,
+        "month":7,
+        "M1":2940255.6699999999,
+        "M2":9574893.2799999993,
+        "M1_normalized":0.7784,
+        "M2_normalized":0.8439
     },
     {
-        "NO":92,
-        "Tanggal":"21 Februari 2019",
-        "BI Rate":6.0
+        "year":2025,
+        "month":8,
+        "M1":3054653.6899999999,
+        "M2":9654347.4800000004,
+        "M1_normalized":0.8293,
+        "M2_normalized":0.8584
     },
     {
-        "NO":93,
-        "Tanggal":"17 Januari 2019",
-        "BI Rate":6.0
+        "year":2025,
+        "month":9,
+        "M1":3087149.7599999998,
+        "M2":9773409.9700000007,
+        "M1_normalized":0.8438,
+        "M2_normalized":0.88
     },
     {
-        "NO":94,
-        "Tanggal":"20 Desember 2018",
-        "BI Rate":6.0
+        "year":2025,
+        "month":10,
+        "M1":3105188.6200000001,
+        "M2":9783069.7100000009,
+        "M1_normalized":0.8518,
+        "M2_normalized":0.8818
     },
     {
-        "NO":95,
-        "Tanggal":"15 November 2018",
-        "BI Rate":6.0
+        "year":2025,
+        "month":11,
+        "M1":3237711.6099999999,
+        "M2":9891575.0500000007,
+        "M1_normalized":0.9108,
+        "M2_normalized":0.9015
     },
     {
-        "NO":96,
-        "Tanggal":"23 Oktober 2018",
-        "BI Rate":5.75
-    },
-    {
-        "NO":97,
-        "Tanggal":"27 September 2018",
-        "BI Rate":5.75
-    },
-    {
-        "NO":98,
-        "Tanggal":"15 Agustus 2018",
-        "BI Rate":5.5
-    },
-    {
-        "NO":99,
-        "Tanggal":"19 Juli 2018",
-        "BI Rate":5.25
-    },
-    {
-        "NO":100,
-        "Tanggal":"29 Juni 2018",
-        "BI Rate":5.25
-    },
-    {
-        "NO":101,
-        "Tanggal":"30 Mei 2018",
-        "BI Rate":4.75
-    },
-    {
-        "NO":102,
-        "Tanggal":"17 Mei 2018",
-        "BI Rate":4.5
-    },
-    {
-        "NO":103,
-        "Tanggal":"19 April 2018",
-        "BI Rate":4.25
-    },
-    {
-        "NO":104,
-        "Tanggal":"22 Maret 2018",
-        "BI Rate":4.25
-    },
-    {
-        "NO":105,
-        "Tanggal":"15 Februari 2018",
-        "BI Rate":4.25
-    },
-    {
-        "NO":106,
-        "Tanggal":"18 Januari 2018",
-        "BI Rate":4.25
-    },
-    {
-        "NO":107,
-        "Tanggal":"14 Desember 2017",
-        "BI Rate":4.25
-    },
-    {
-        "NO":108,
-        "Tanggal":"16 November 2017",
-        "BI Rate":4.25
-    },
-    {
-        "NO":109,
-        "Tanggal":"19 Oktober 2017",
-        "BI Rate":4.25
-    },
-    {
-        "NO":110,
-        "Tanggal":"22 September 2017",
-        "BI Rate":4.25
-    },
-    {
-        "NO":111,
-        "Tanggal":"22 Agustus 2017",
-        "BI Rate":4.5
-    },
-    {
-        "NO":112,
-        "Tanggal":"20 Juli 2017",
-        "BI Rate":4.75
-    },
-    {
-        "NO":113,
-        "Tanggal":"15 Juni 2017",
-        "BI Rate":4.75
-    },
-    {
-        "NO":114,
-        "Tanggal":"18 Mei 2017",
-        "BI Rate":4.75
-    },
-    {
-        "NO":115,
-        "Tanggal":"20 April 2017",
-        "BI Rate":4.75
-    },
-    {
-        "NO":116,
-        "Tanggal":"16 Maret 2017",
-        "BI Rate":4.75
-    },
-    {
-        "NO":117,
-        "Tanggal":"16 Februari 2017",
-        "BI Rate":4.75
-    },
-    {
-        "NO":118,
-        "Tanggal":"19 Januari 2017",
-        "BI Rate":4.75
+        "year":2025,
+        "month":12,
+        "M1":3386882.5600000001,
+        "M2":10133099.4000000004,
+        "M1_normalized":0.9772,
+        "M2_normalized":0.9455
+    },
+    {
+        "year":2026,
+        "month":1,
+        "M1":3379662.7999999998,
+        "M2":10116181.8599999994,
+        "M1_normalized":0.974,
+        "M2_normalized":0.9424
+    },
+    {
+        "year":2026,
+        "month":2,
+        "M1":3340743.1899999999,
+        "M2":10089852.2200000007,
+        "M1_normalized":0.9567,
+        "M2_normalized":0.9376
+    },
+    {
+        "year":2026,
+        "month":3,
+        "M1":3423531.9100000001,
+        "M2":10355718.1600000001,
+        "M1_normalized":0.9935,
+        "M2_normalized":0.986
+    },
+    {
+        "year":2026,
+        "month":4,
+        "M1":3342536.27,
+        "M2":10255254.4499999993,
+        "M1_normalized":0.9575,
+        "M2_normalized":0.9677
+    },
+    {
+        "year":2026,
+        "month":5,
+        "M1":3438108.3799999999,
+        "M2":10416472.5199999996,
+        "M1_normalized":1.0,
+        "M2_normalized":0.997
+    },
+    {
+        "year":2026,
+        "month":6,
+        "M1":3318350.1800000002,
+        "M2":10432756.8000000007,
+        "M1_normalized":0.9467,
+        "M2_normalized":1.0
+    },
+    {
+        "year":2026,
+        "month":7,
+        "M1":null,
+        "M2":null,
+        "M1_normalized":null,
+        "M2_normalized":null
+    },
+    {
+        "year":2026,
+        "month":8,
+        "M1":null,
+        "M2":null,
+        "M1_normalized":null,
+        "M2_normalized":null
+    },
+    {
+        "year":2026,
+        "month":9,
+        "M1":null,
+        "M2":null,
+        "M1_normalized":null,
+        "M2_normalized":null
+    },
+    {
+        "year":2026,
+        "month":10,
+        "M1":null,
+        "M2":null,
+        "M1_normalized":null,
+        "M2_normalized":null
+    },
+    {
+        "year":2026,
+        "month":11,
+        "M1":null,
+        "M2":null,
+        "M1_normalized":null,
+        "M2_normalized":null
+    },
+    {
+        "year":2026,
+        "month":12,
+        "M1":null,
+        "M2":null,
+        "M1_normalized":null,
+        "M2_normalized":null
     }
 ]
