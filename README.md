@@ -18,6 +18,6 @@ Multiple linear regression to predict Indonesian Inflation YoY using **BI Rate**
 
 **Model N+1 (next period prediction, includes autoregressive current inflation):**
 
-$$Inflasi_{n+1} = 0.5410 - 0.0838 \cdot BI\_Rate_n + 0.0734 \cdot M2_n + 0.9420 \cdot Inflasi_n$$
+$$Inflasi_{(n+1)} = 0.5410 - 0.0838 \cdot BIRate_{(n)} + 0.0734 \cdot M2_{(n)} + 0.9420 \cdot Inflasi_{(n)}$$
 
 R² = 0.8739
